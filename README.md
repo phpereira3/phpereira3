@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phpereira3&label=Profile%20views&color=0e75b6&style=flat" alt="phpereira3" /> </p>
 
-- 🔭 Atualmente trabalho como Arquiteto/Líder Técnico no [Portal OPL (Raízen)](https://sgctransp.raizen.com/)
+- 🔭 Atualmente trabalho como Arquiteto/Líder Técnico no [Portal OPL (Raízen)](https://google.com/)
 
 - 🌱 Estou em aprendizado contínuo na área de **DevOps**
 
