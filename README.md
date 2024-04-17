@@ -4,7 +4,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/henrique.qt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrohenriquealvarenga) <img src="https://komarev.com/ghpvc/?username=phpereira3&label=Profile%20views&color=0e75b6&style=flat" alt="phpereira3" />
 
-<p align="left">Sou um Arquiteto Software, Líder Técnico e Desenvolvedor Fullstack, apaixonado por tecnologia e codificação, que ama resolver os problemas de clientes/empresas através de código!</p>
+<p align="left">Sou um Arquiteto de Software, Líder Técnico e Desenvolvedor Fullstack, apaixonado por tecnologia e codificação, que ama resolver os problemas de clientes/empresas através de código!</p>
 
 🔭 Atualmente trabalho em um projeto da [Raízen](https://www.raizen.com.br/)<br/>
 👯 Trabalho também em projetos que envolvem a utilização de LLM/AI<br/>
