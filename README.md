@@ -6,11 +6,11 @@
 
 <p align="left">Sou um Arquiteto Software, Líder Técnico e Desenvolvedor Fullstack, apaixonado por tecnologia e codificação, que ama resolver os problemas de clientes/empresas através de código!</p>
 
-🔭 Atualmente trabalho em um projeto da [Raízen](https://www.raizen.com.br/).<br/>
-👯 Trabalho também em projetos que envolvem a utilização de LLM/AI.<br/>
-🌱 Estou em aprendizado contínuo na área de DevOps.<br/>
-💬 **Me pergunte sobre:** React, Angular, .NET e Azure.<br/>
-⚡ **Fato interessante:** Além de codar, adoro jogar xadrez!
+🔭 Atualmente trabalho em um projeto da [Raízen](https://www.raizen.com.br/)<br/>
+👯 Trabalho também em projetos que envolvem a utilização de LLM/AI<br/>
+🌱 Estou em aprendizado contínuo na área de DevOps<br/>
+💬 **Me pergunte sobre:** React, Angular, .NET e Azure<br/>
+⚡ **Fato interessante:** Além de codar, adoro jogar xadrez ♟️
 
 ##
 
@@ -37,8 +37,8 @@
 ### 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=phpereira3&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=phpereira3&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=phpereira3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-contributor-stats.vercel.app/api?username=phpereira3&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=phpereira3&limit=5&theme=dark&combine_all_yearly_contributions=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=phpereira3&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ##
 
